@@ -1,2 +1,2 @@
 # malawi
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"RT Malawi","sourceCam":["https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODEyNjEyNjdf/tpa.jpg","titleCam":"RT MALAWI"}]}]}
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"MBC TV Malawi","sourceCam":["http://41.216.229.205:8080/live/livestream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1Nzk2MjVf/mbcmalawi.jpg","titleCam":"MBC TV"}]}]}
